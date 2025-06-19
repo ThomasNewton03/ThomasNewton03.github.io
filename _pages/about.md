@@ -22,19 +22,18 @@ social: false  # includes social icons at the bottom of the page
      </div>
  </div>
 
-The aim of _ViAjeRo_ (Traveller in Spanish) is to **radically improve all passenger journeys by facilitating the use of immersive Virtual and Augmented Reality (together called XR) to support entertainment, work and collaboration when on the move**.
+In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to **transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.**
 
-In Europe, people travel an average of 12,000km per year on private and public transport, in cars, buses, planes and trains. These journeys are often repetitive and wasted time. This total will rise with the arrival of fully autonomous cars, which free drivers to become passengers. The potential to recover this lost time is impeded by 3 significant challenges:
-- Confined spaces: These limit interactivity, and force us to rely on small displays such as phones or seatback screens
-- Social acceptability:We may share the space with others, inducing a pressure to conform, inhibiting tech-nology use
-- Motion sickness: Many people get sick when they read or play games in vehicles. Once experienced, it can take hours for symptoms to resolve.
-  
-VR/AR headsets could allow passengers to use their travel time in new, productive, exciting ways, but only if bold research is undertaken to overcome these fundamental challenges. ViAjeRo will use VR/AR to do adventurous multidisciplinary work, unlocking the untapped potential of passengers. They will be able to use large virtual displays for productivity; escape the physical confines of the vehicle and become immersed in virtual experiences; and communicate with distant others through new embodied forms of communication – all whilst travelling. Our vision requires ground-breaking contributions at the intersection of HCI, neuroscience and sensing to:
-- Develop novel interaction techniques for confined, seated spaces
-- Support safe, socially acceptable use of VR/AR, providing awareness of others and the travel en-vironment
-- Overcome motion sickness through novel multimodal countermeasures and neurostimulation
-- Tailor the virtual and physical passenger environment to support new, immersive experiences
 
-ViAjeRo started in 2019 and finished in 2025, and you can explore our project outputs on this website.
+Tactile haptics is a key feature of many devices, from phones to in-car user interfaces, significantly improving usability and user experience. However, touch is  often limited to vibration. Vibration actuators are bulky, low bandwidth, use non-sustainable materials, and only evoke a very limited set of sensations. This means we cannot make full use of our powerful touch sense and limits the applications of haptics. Electrotactile stimulation is the only effective solution for adding tactile displays to flexible devices with different geometries, at a low cost, power consumption and complexity. However, there are 4 key challenges that must be addressed:
+·      Perception – Knowledge of how electrical stimulation is perceived is limited; we have no clear basis on which to design comfortable, safe and effective stimuli
+·      Electrode Design – There are no sustainable electrodes, printable on to the surfaces of everyday devices to deliver stimulation
+·      Impedance Changes - Skin impedance and sensitivity vary over the body and over time; the same level of stimulation could become painful (or imperceptible) if the user sweats or moves their body
+·      Interaction Design - Little is known about how to design effectively using electrotactile haptics and there are no tools to help
+Our vision to solve these problems requires ground-breaking work at the intersection of HCI, psychology and biomedical engineering to:
+1.     Conduct fundamental studies in the perception of electrotactile stimulation
+2.     Engineer sustainable electrode hardware and closed-loop impedance management for personalized feedback
+3.     Create and validate new electrotactile and multimodal interactions
+4.     Evaluate and demonstrate the practical effectiveness of electrotactile haptics in real world use
 
 ---
