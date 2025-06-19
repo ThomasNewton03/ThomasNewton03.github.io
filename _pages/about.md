@@ -10,14 +10,13 @@ subtitle:
 #  image_circular: false # crops the image to make it circular
 #  more_info: >
 
-news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
 
-In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.
+In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to **transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.**
 
 
 
@@ -26,6 +25,7 @@ Tactile haptics is a key feature of many devices, from phones to in-car user int
 - Electrode Design – There are no sustainable electrodes, printable on to the surfaces of everyday devices to deliver stimulation
 - Impedance Changes - Skin impedance and sensitivity vary over the body and over time; the same level of stimulation could become painful (or imperceptible) if the user sweats or moves their body
 - Interaction Design - Little is known about how to design effectively using electrotactile haptics and there are no tools to help
+
 
 Our vision to solve these problems requires ground-breaking work at the intersection of HCI, psychology and biomedical engineering to:
 1.     Conduct fundamental studies in the perception of electrotactile stimulation
