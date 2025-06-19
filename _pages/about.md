@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: 
 
@@ -16,11 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<div class="row mt-3">
-     <div class="col-sm mt-3 mt-md-0">
-         {% include figure.html path="assets/img/header-car.png" class="img-fluid rounded z-depth-1" %}
-     </div>
- </div>
 
 In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.
 
