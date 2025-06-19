@@ -36,7 +36,7 @@ Our vision to solve these problems requires ground-breaking work at the intersec
 1.     Conduct fundamental studies in the perception of electrotactile stimulation
 2.     Engineer sustainable electrode hardware and closed-loop impedance management for personalized feedback
 3.     Create and validate new electrotactile and multimodal interactions
-4.     Evaluate and demonstrate the practical effectiveness of electrotactile haptics in real world use
+4.     Evaluate and demonstrate the practical effectiveness of electrotactile haptics in real world usel
 
 
 ---
