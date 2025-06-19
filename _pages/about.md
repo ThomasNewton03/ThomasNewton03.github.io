@@ -32,7 +32,6 @@ Tactile haptics is a key feature of many devices, from phones to in-car user int
 - Impedance Changes - Skin impedance and sensitivity vary over the body and over time; the same level of stimulation could become painful (or imperceptible) if the user sweats or moves their body
 - Interaction Design - Little is known about how to design effectively using electrotactile haptics and there are no tools to help
 
-
 Our vision to solve these problems requires ground-breaking work at the intersection of HCI, psychology and biomedical engineering to:
 1.     Conduct fundamental studies in the perception of electrotactile stimulation
 2.     Engineer sustainable electrode hardware and closed-loop impedance management for personalized feedback
