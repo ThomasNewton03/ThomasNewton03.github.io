@@ -7,7 +7,8 @@ first_name: Stephen
 middle_name: 
 last_name: Brewster
 email: stephen.brewster@glasgow.ac.uk
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:" 
+  In BodyElectric, we will develop a radical new form of haptics using electrical stimulation of the skin to transform our ability to incorporate tactile feedback into everyday products, to create richer interactive experiences, with lower environmental cost.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
